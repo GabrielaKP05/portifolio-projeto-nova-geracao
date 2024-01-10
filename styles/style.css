@@ -67,6 +67,7 @@ text-decoration: none;
 .apresentacao-conteudo-texto{
    font-size: 1.5rem; 
    font-family:var(--fonte--secundaria);
+   padding: 10px;
 }
 .apresentacao-links{
     display: flex;
